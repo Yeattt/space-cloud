@@ -10,3 +10,7 @@ docker-compose up -d
 ```
 mongodb://localhost:27017/spacecldb
 ```
+
+* Global Variables
+* MONGO_URL
+* JWT_SECRET 
