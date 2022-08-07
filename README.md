@@ -12,5 +12,5 @@ mongodb://localhost:27017/spacecldb
 ```
 
 * Global Variables
-* MONGO_URL
-* JWT_SECRET 
+MONGO_URL
+JWT_SECRET 
